@@ -1,7 +1,6 @@
 # Hey, I'm PARTH SHAH 👋
-### `Game Developer | Animator | Flutter Developer`
 
-Professional Creative Developer focused on building polished, interactive experiences across games and mobile apps. I combine engineering discipline with visual storytelling, aiming for products that feel smooth, intentional, and engaging.
+Professional `Creative Developer` focused on building polished, interactive experiences across games and mobile apps. I combine engineering discipline with visual storytelling, aiming for products that feel smooth, intentional, and engaging.
 
 ---
 
